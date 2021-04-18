@@ -8,4 +8,4 @@ Dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/Occupancy
 * Support Vector Machine(SVM)
 * Artificial Neural Network(ANNs) 
 <br />are used with optimization and performance of these algorithms after optimization is analyzed over testing datasets .  
-Detailed information is available Report.pdf file
+<br />Detailed information is available Report.pdf file
