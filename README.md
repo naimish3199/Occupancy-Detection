@@ -1,3 +1,5 @@
+## Web Application is hosted at https://occupancy-detector-api.herokuapp.com/
+
 #### The aim of this project is to detect human presence in the room(i.e. Occupancy of the room) using Occupancy Detection datasets which is generated using IoT devices installed in the room. We are asked to classify occupancy status in an room i.e. 0 or 1 , 0 for not occupied and 1 for occupied status. There are three datasets given -<br />
 * datatraining.txt (For Training) (8143 datapoints)
 * datatest.txt (For Testing) (2665 datapoints)  
