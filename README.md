@@ -3,7 +3,7 @@
 * datatest.txt (For Testing) (2665 datapoints)  
 * datatest2.txt (For Testing) (9752 datapoints)
 <br />
-Precisely 8143 datapoints are provided for training and 12417 are provided for testing.<br />
+Precisely 8143 datapoints are provided for training and 12417 datapoints are provided for testing.<br />
 
 
 Data contains 6 features -
